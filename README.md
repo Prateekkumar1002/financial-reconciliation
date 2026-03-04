@@ -1,7 +1,5 @@
 # AI Financial Reconciliation System
 
-### AI Engineer Take‑Home Assignment -- Osfin.ai
-
 ## Overview
 
 Financial reconciliation verifies that two independent financial records
